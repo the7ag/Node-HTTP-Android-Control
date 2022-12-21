@@ -1,5 +1,9 @@
 # Node HTTP Android Control
 Node mcu controll using HTTP protocol and an android app to send the requests to the HTTP server
+# authors
+- [@Mohamed ALi](https://github.com/the7ag)
+- [@Hady Hisham](https://github.com/hadyhisham1)  
+
 #  Introduction
 
 The Hypertext Transfer Protocol (HTTP) is a standard application layer protocol that functions as a request-response protocol between server and client.
