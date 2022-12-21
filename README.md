@@ -1,5 +1,5 @@
 # Node HTTP Android Control
-Node mcu controll using HTTP protocol and an android app to send the requests to the HTTP server
+NodeMCU control using HTTP and an android app to send the requests to the HTTP server
 # authors
 - [@Mohamed ALi](https://github.com/the7ag)
 - [@Hady Hisham](https://github.com/hadyhisham1)  
